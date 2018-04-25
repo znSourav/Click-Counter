@@ -1,0 +1,9 @@
+F:\C#\Click Counter\Click Counter\bin\Debug\Click Counter.exe.config
+F:\C#\Click Counter\Click Counter\bin\Debug\Click Counter.exe
+F:\C#\Click Counter\Click Counter\bin\Debug\Click Counter.pdb
+F:\C#\Click Counter\Click Counter\obj\Debug\Click Counter.csprojResolveAssemblyReference.cache
+F:\C#\Click Counter\Click Counter\obj\Debug\Click_Counter.ClickCounterForm.resources
+F:\C#\Click Counter\Click Counter\obj\Debug\Click_Counter.Properties.Resources.resources
+F:\C#\Click Counter\Click Counter\obj\Debug\Click Counter.csproj.GenerateResource.Cache
+F:\C#\Click Counter\Click Counter\obj\Debug\Click Counter.exe
+F:\C#\Click Counter\Click Counter\obj\Debug\Click Counter.pdb
